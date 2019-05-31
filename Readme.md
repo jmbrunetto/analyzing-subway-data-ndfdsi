@@ -36,7 +36,7 @@ I'll cross the NY data with the weather data and apply statistic methods to help
 - [x] -> Exercicio 3.1
 - [x] -> Exercicio 3.2
 
-You can see the final result [here]()
+You can see the final result [here](https://github.com/jmbrunetto/analyzing-subway-data-ndfdsi/blob/master/src/analyzing-subway-data-ndfdsi.ipynb)
 
 ## References
 
